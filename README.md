@@ -16,13 +16,13 @@ Software engineering involves the design, development, testing, deployment and m
 
 Differences Between Software Engineering and Traditional Programming:
 
-1.Software engineering focuses on the whole lifecycle of software development  from design to maintenance while traditional Programming focuses on writing code to implement specific functionality.
-2.Software engineering uses  methodologies such as agile, waterfall and scrum to manage the development process whereas traditional programming may not follow a structured methodology and often focuses on coding and immediate problem-solving.
-3.Software Engineering: Emphasizes teamwork, communication, and collaboration among various stakeholders such as developers, project managers, clients while traditional programming is often an individual activity, with less emphasis on collaboration.
-4.Software engineering requires thorough documentation and adherence to industry standards and best practices whereas in traditional programming, documentation may be minimal and adherence to standards can be less stringent.
-5.Software Engineering incorporates formal project management practices to ensure successful project delivery while traditional programming may lack formal project management, focusing instead on coding tasks.
-6.Software engineering integrates quality assurance practices throughout the development process to ensure high-quality software while in traditional programming quality assurance may be limited to basic testing of the code written.
-7.Software engineering plans for and manages the long-term maintenance and evolution of the software while traditional programming may not consider long-term maintenance, focusing more on immediate coding needs.
+1. Software engineering focuses on the whole lifecycle of software development  from design to maintenance while traditional Programming focuses on writing code to implement specific functionality.
+2. Software engineering uses  methodologies such as agile, waterfall and scrum to manage the development process whereas traditional programming may not follow a structured methodology and often focuses on coding and immediate problem-solving.
+3. Software Engineering: Emphasizes teamwork, communication, and collaboration among various stakeholders such as developers, project managers, clients while traditional programming is often an individual activity, with less emphasis on collaboration.
+4. Software engineering requires thorough documentation and adherence to industry standards and best practices whereas in traditional programming, documentation may be minimal and adherence to standards can be less stringent.
+5. Software Engineering incorporates formal project management practices to ensure successful project delivery while traditional programming may lack formal project management, focusing instead on coding tasks.
+6. Software engineering integrates quality assurance practices throughout the development process to ensure high-quality software while in traditional programming quality assurance may be limited to basic testing of the code written.
+7. Software engineering plans for and manages the long-term maintenance and evolution of the software while traditional programming may not consider long-term maintenance, focusing more on immediate coding needs.
 
 Software Development Life Cycle (SDLC):
 
